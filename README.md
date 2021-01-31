@@ -1,3 +1,3 @@
 # TRANSACTION
 
-![unittest](https://github.com/verriandriawan/test/workflows/unittest/badge.svg)
+![tests](https://github.com/verriandriawan/transaction/workflows/tests/badge.svg)
