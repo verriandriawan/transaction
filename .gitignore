@@ -1,0 +1,10 @@
+node_modules
+.nyc_output
+dist/
+.vscode
+*.sqlite3
+yarn-error.log
+knexfile.js
+*.bak
+html/
+logs/
